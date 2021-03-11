@@ -1,5 +1,5 @@
-# 2021-1 - Quarta Noite
-Repositório da disciplina "Computação Móvel"
+# 2021-1 - Quinta Noite
+Repositório da disciplina "Desenvolvimento de aplicativos móveis híbridos"
 
 ---
 
