@@ -13,6 +13,10 @@ Novas atividades serão postadas aqui. Fique de olho. 😉
 
 
 
+***
+
+
+
 ## Link importantes:
 
  - [Preparação do ambiente de Desenvolvimento](https://github.com/traue/2021-1_quinta_noite/wiki/Prepara%C3%A7%C3%A3o-do-ambiente---Flutter)
