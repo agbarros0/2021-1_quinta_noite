@@ -6,7 +6,7 @@ Repositório da disciplina "Desenvolvimento de aplicativos móveis híbridos"
 ## Atividade
 
 
- - [Atividade 1](https://forms.gle/aSJs6A7dTgWL7Z6MA) - De 29.04 até 13.05
+ - [Atividade 1](https://forms.gle/aSJs6A7dTgWL7Z6MA) - De 29.04 até 13.05, 19h
 
 
 Novas atividades serão postadas aqui. Fique de olho. 😉
