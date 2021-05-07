@@ -29,6 +29,15 @@ class _HomeState extends State<Home> {
     });
   }
 
+  void _reset() {
+    setState(() {
+      alcoolcontroller.text = "";
+      gasolinacontroller.text = "";
+      _resultado = "Informe os valores";
+      _formKey = GlobalKey<FormState>();
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -39,6 +48,12 @@ class _HomeState extends State<Home> {
         ),
         centerTitle: true,
         backgroundColor: Colors.lightBlue[900],
+        actions: [
+          IconButton(
+              icon: Icon(Icons.refresh),
+              onPressed: _reset
+          )
+        ],
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.fromLTRB(10.0, 0, 10.0, 0),
